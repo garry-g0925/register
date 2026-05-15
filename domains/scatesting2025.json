@@ -1,0 +1,12 @@
+{
+  "description": "Use for testing SuiteCommerce. This is so that scatesting2025.is-cool.dev in order to work",
+  "domain": "is-cool.dev",
+  "subdomain": "_acme-challenge.scatesting2025",
+  "owner": {
+    "email": "garry.g@ebizcharge.com"
+  },
+  "record": {
+    "CNAME": "scatesting2025.is-cool.dev.hosting-verify.netsuite.com"
+  },
+  "proxied": false
+}
